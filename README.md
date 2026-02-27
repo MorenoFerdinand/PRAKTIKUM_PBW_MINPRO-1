@@ -136,7 +136,7 @@ createApp({
 * Tampilan Home:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dbbd0adc-a8fd-4386-8ff5-9a9386a189fc" />
 
-* Tampilan ABout Me:
+* Tampilan About Me:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/58cb8fb5-2371-46ef-9f8f-fc96fd9bf904" />
 
 * Tampilan Certificates:
